@@ -3,7 +3,12 @@ Tôi 21 tuổi
 
 This is from branch main
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is from branch C
 =======
 This is from branch B
 >>>>>>> branch-B
+=======
+This is from branch A
+This is from branch A-2
+>>>>>>> branch-A
