@@ -2,4 +2,8 @@ Nguyễn Trần Hoàng Lợi
 Tôi 21 tuổi
 
 This is from branch main
+<<<<<<< HEAD
 This is from branch C
+=======
+This is from branch B
+>>>>>>> branch-B
